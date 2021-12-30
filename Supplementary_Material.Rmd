@@ -1,0 +1,143 @@
+---
+title: ""
+
+output:
+  html_document:
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+---
+
+<div align="center"><font size="5">  **Supplementary material** </font></div>
+
+<br />
+
+<div align="center"><font size="3">  <i>Frontiers in Ecology and Evolution</i></font></div>
+
+<br />
+
+<div align="center"><font size="5">  **Artificial intelligence-aided meta-analysis of toxicological assessment of agrochemicals in bees** </font></div>
+
+<br />
+<br />
+
+
+Rodrigo Cupertino Bernardes<sup>1</sup>; Lorena Lisbetd Botina<sup>1</sup>; Renan dos Santos Araújo<sup>1*</sup>; Raul Narciso Carvalho Guedes<sup>1</sup>; Gustavo Ferreira Martins<sup>2</sup>; Maria Augusta Pereira Lima<sup>3</sup>
+
+<br />
+
+<sup>1</sup>Departamento de Entomologia. Universidade Federal de Viçosa. Viçosa, Minas Gerais, Brazil.
+
+<sup>2</sup>Departamento de Biologia Geral. Universidade Federal de Viçosa. Viçosa, Minas Gerais, Brazil. 
+
+<sup>3</sup>Departamento de Biologia Animal. Universidade Federal de Viçosa. Viçosa, Minas Gerais, Brazil. 
+
+
+
+<br />
+
+*Correspondence: R.S. Araújo
+E-mail: renandosantosaraujo@gmail.com
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+### Table S1.
+
+<p style='text-align: justify;'> **Summary of the categorization of variables sampled in the systematic review on toxicological assessment of agrochemicals in pollinators.** </p>
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2c25{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-size:12px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-vlyc{border-color:inherit;font-family:"Times New Roman", Times, serif !important;;font-size:12px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2c25">&nbsp;&nbsp;&nbsp;<br>Variables&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-2c25">&nbsp;&nbsp;&nbsp;<br>Description&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Agrochemical_use&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Agrochemicals were categorized&nbsp;&nbsp;&nbsp;according to its role in crops. For instance: Insecticides are&nbsp;&nbsp;&nbsp;compounds used against insect pests; Herbicides are compounds used&nbsp;&nbsp;&nbsp;against weed control; Mixtures are when there was a mixture of two or&nbsp;&nbsp;&nbsp;more compounds with different types of use.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Agrochemical_groups&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Based on IRAC MoA Classification&nbsp;&nbsp;&nbsp;Version 9.4, March 2020, using the table column “Sub-group”&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Active_ingredient&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>The principal component of the&nbsp;&nbsp;&nbsp;formulation or only ingredient activate. Based on IRAC MoA Classification&nbsp;&nbsp;&nbsp;Version 9.4, March 2020, using the table column “exemplifying Active&nbsp;&nbsp;&nbsp;Ingredient”&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Synthetic_or_natural&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>When the primary origin of the&nbsp;&nbsp;&nbsp;compound is biological or natural (i.e., the chemical structure of the&nbsp;&nbsp;&nbsp;molecule has not been synthetically modified).&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Pollinator_order;&nbsp;&nbsp;&nbsp;Pollinator_family; Pollinator_subfamily; Pollinator_tribe; Specie&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>The pollinators were identified&nbsp;&nbsp;&nbsp;according to the taxonomic order, family, subfamily, tribe, and specie. The&nbsp;&nbsp;&nbsp;taxonomy of bee groups was based on: J. S. Moure, 2012. Apini Latreille,&nbsp;&nbsp;&nbsp;1802. In Moure, J. S., Urban, D. &amp; Melo, G. A. R. (Orgs). Catalogue of&nbsp;&nbsp;&nbsp;Bees (Hymenoptera, Apoidea) in the Neotropical Region - online version.&nbsp;&nbsp;&nbsp;Available at http://www.moure.cria.org.br/catalogue. Accessed Dec/29/2021&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Experimental_set_up&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>The level of social organization&nbsp;&nbsp;&nbsp;of the pollinators in which the study was performed.<br>&nbsp;&nbsp;&nbsp;<br>Colony: exposition of the pollinator in&nbsp;&nbsp;&nbsp;colony with queen laying eggs;<br>&nbsp;&nbsp;&nbsp;<br>Microcolony: exposition of a group of bee&nbsp;&nbsp;&nbsp;workers (usually between 4 and 12bees) isolated in a queenless environment&nbsp;&nbsp;&nbsp;and the workers laying eggs; <br>&nbsp;&nbsp;&nbsp;<br>Individual: exposition in the individual or small&nbsp;&nbsp;&nbsp;bee group without queen and work laying egg.<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Development_stage&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Stages of post-embryonic development&nbsp;&nbsp;&nbsp;of pollinators: Adult and immature (larva, pupa or nymph)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Sex_caste&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Social pollinator with caste differentiation&nbsp;&nbsp;&nbsp;(i.e., worker, queen, and drone)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Stressor_association&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>When the study evaluated the&nbsp;&nbsp;&nbsp;toxicity of some agrochemicals associated with some other stressors: virus,&nbsp;&nbsp;&nbsp;bacteria, mite, protozoa, fungi, and environmental (temperature, humidity and&nbsp;&nbsp;&nbsp;availability of food resources) &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Study_system&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Lab, field, and Semi-field&nbsp;&nbsp;&nbsp;(greenhouse)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Application&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>How the agrochemical was applied&nbsp;&nbsp;&nbsp;to pollinators. <br>&nbsp;&nbsp;&nbsp;<br>Oral: ingested the agrochemical&nbsp;&nbsp;&nbsp;(e.g., ingestion of food contaminated with agrochemical); topical: application&nbsp;&nbsp;&nbsp;directly on the pollinator body, usually on the thorax; contact: application&nbsp;&nbsp;&nbsp;by spray, pulverize or pot treated were the pollinator has contact.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Exposure&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Acute: Regardless of the type of&nbsp;&nbsp;&nbsp;application (oral, topical or contact), acute exposure was considered when&nbsp;&nbsp;&nbsp;the agrochemical was administered for a short period of time, and, usually,&nbsp;&nbsp;&nbsp;only once. We considered acute exposure when the duration of exposure&nbsp;&nbsp;&nbsp;represented less than 10% of the life span of the studied pollinator.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Chronical: Regardless of the type&nbsp;&nbsp;&nbsp;of application (oral, topical or contact), chronic exposure was considered&nbsp;&nbsp;&nbsp;when the agrochemical was administered repeatedly for a period of time&nbsp;&nbsp;&nbsp;greater than 10% of the lifetime of the studied pollinator.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Response_variables&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-vlyc">&nbsp;&nbsp;&nbsp;<br>Response variables quantified in&nbsp;&nbsp;&nbsp;studies.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Survival: lethal effect measurement&nbsp;&nbsp;&nbsp;considering both the survival over time and the mortality of individuals&nbsp;&nbsp;&nbsp;after exposure;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Behavior: flight, foraging,&nbsp;&nbsp;&nbsp;locomotion, defensive response, number of visits, buzzing, repellence, pollination&nbsp;&nbsp;&nbsp;activity, learning, and Memory;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Feeding: generally, amount of food&nbsp;&nbsp;&nbsp;ingest;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Gene expression: molecular biology&nbsp;&nbsp;&nbsp;with specific genes, RT-PCR, genetic diversity, microsatellite markers,&nbsp;&nbsp;&nbsp;expression of antioxidant genes, expression of immune system related gene&nbsp;&nbsp;&nbsp;transcripts, HSP genes, genes Lipid metabolism, DNA damage, DNA metalation;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Metabolism: enzyme activity, ATP,&nbsp;&nbsp;&nbsp;hemolymph carbohydrates, oxidative stress; Bioenergy; hibernation, Thorax temperature,&nbsp;&nbsp;&nbsp;Mitochondrial function;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Reproduction: caste&nbsp;&nbsp;&nbsp;differentiation, new number of eggs, number of larvae, number of broods, sperm&nbsp;&nbsp;&nbsp;viability, population size, brood area, richness;<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Morphology: histology, Internal&nbsp;&nbsp;&nbsp;morphology (gut, brain, hypopharyngeal glands, ovary, spermatheca, mushroom&nbsp;&nbsp;&nbsp;bodies, immunocytochemistry, reactive oxygen species, caspase-3, antennal&nbsp;&nbsp;&nbsp;lobes, optic lobes), morphometric measurements from external morphology (shape&nbsp;&nbsp;&nbsp;body, head width, intertegular span, and wing asymmetry).<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Agrochemical residue: residues in&nbsp;&nbsp;&nbsp;pollen, wax, and honey, but necessarily it must evaluate the bee's body&nbsp;&nbsp;&nbsp;treated; biomarkers (residues of heavy metals in pollinator body).<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Biomass: body or colony mass.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Immunity: Infestation/infection (by&nbsp;&nbsp;&nbsp;virus, mites, fungi, bacteria), encapsulation, hemocytes, immunocompetence,&nbsp;&nbsp;&nbsp;heart rate, antimicrobial activity.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Physiology: respiration, neuronal&nbsp;&nbsp;&nbsp;activity, thermoregulation, receptors, rhianodine.<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Microbiota: metagenomics,&nbsp;&nbsp;&nbsp;microbiome, gut bactéria, gut microbiota<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Omics: genomic, proteomic,&nbsp;&nbsp;&nbsp;metabolomic, transcriptome&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+### Table S2.
+**Database built after selection and inclusion of data in meta-analysis on toxicological assessment of agrochemicals in bees.**
+
+
+
+```{r, warning=FALSE,message=FALSE,echo=FALSE}
+library(dplyr)
+
+data<-read.csv('Table_S2.csv', sep=";")
+
+
+DT::datatable(data,options = list(autoWidth = TRUE,scrollX = TRUE))
+```
+
+
+
